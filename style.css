@@ -9,6 +9,6 @@ body {
 .container {
   width: 400px;
   height: 200px;
-  background-color: white;
+  background-color: red;
   border-radius: 5px;
 }
