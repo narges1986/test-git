@@ -12,3 +12,8 @@ body {
   background-color: red;
   border-radius: 5px;
 }
+.title {
+  font-size: 14px;
+  border-bottom: 160px;
+  margin: auto;
+}
