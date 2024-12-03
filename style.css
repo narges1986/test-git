@@ -17,3 +17,7 @@ body {
   border-bottom: 160px;
   margin: auto;
 }
+.desc {
+  color: lightgray;
+  font-size: 14px;
+}
